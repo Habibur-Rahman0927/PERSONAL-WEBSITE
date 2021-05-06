@@ -175,7 +175,7 @@ section .title::after{
 .about .about-content .left img{
     height: 420px;
     width:400px;
-    position:absolute;
+    position:relative;
     border-radius: 6px;
 }
 .about .about-content .right{
